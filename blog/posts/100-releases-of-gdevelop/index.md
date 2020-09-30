@@ -1,5 +1,5 @@
 ---
-title: 100 releases of GDevelop 5 🎉
+title: Best of 100 releases of GDevelop 5 🎉
 date: "19-09-2020 12:00"
 author: "4ian"
 ---
